@@ -1,3 +1,49 @@
 body{
-    background-color: lightsalmon;
+    background-color: rgb(247, 210, 195);
+    font-family: verdana, Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    margin-bottom: 15px; 
+    color: #fff;
+    font-style: italic;
+}
+
+h2 {
+  
+    color: #C7724A;
+    font-family: Arial, sans-serif; 
+    font-weight: bold; 
+    
+}
+
+.homepage-nav {
+    margin: 0;
+    margin-bottom: 40px;
+    padding: 0;
+}
+
+.homepage-nav li {
+    display: inline-block;
+    width: 23%;
+    background-position: top left;
+    background-size: 120px;
+    background-repeat: no-repeat;
+    padding-top:130px;
+}
+
+.homepage-nav .nav-home {
+    background-image: url('1024px-Facebook_Home_logo.svg.png');
+
+}
+.homepage-nav .nav-article {
+    background-image: url(download-2.png);
+}
+
+.homepage-nav .nav-about {
+    background-image: url(download.png);
+}
+.homepage-nav .nav-blog {
+    background-image: url(download-1.png);
 }
