@@ -10,12 +10,15 @@ h1 {
     font-style: Arial, italic;
 }
 
-h2 {
-  
+h2 { 
     color: #C7724A;
     font-family: Arial, sans-serif; 
     font-weight: bold; 
-    
+}
+
+h3 {
+    color:black;
+    font-weight: bolder;
 }
 
 .homepage-nav {
@@ -47,3 +50,5 @@ h2 {
 .homepage-nav .nav-blog {
     background-image: url(download-1.png);
 }
+
+
