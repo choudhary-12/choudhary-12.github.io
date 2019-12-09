@@ -1,13 +1,13 @@
 body{
-    background-color: rgb(247, 210, 195);
-    font-family: verdana, Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
 h1 {
     margin-bottom: 15px; 
-    color: #fff;
-    font-style: italic;
+    color: gray;
+    font-style: Arial, italic;
 }
 
 h2 {
